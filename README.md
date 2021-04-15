@@ -22,4 +22,4 @@ npm run deploy
 
 ### Example Queries
 
-For example queries, please reference the [Derive Playground](https://thegraph.com/explorer/subgraph/derive-finance/derive?selected=playground).
+For example queries, please reference the [Derive Playground](https://thegraph.com/explorer/subgraph/derivefinance/derive?selected=playground).
